@@ -19,3 +19,6 @@ final class WithPreviousTests: XCTestCase {
     }
 }
 ```
+
+## License
+MIT license. See [LICENSE](LICENSE) for details.
